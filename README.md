@@ -31,6 +31,15 @@
 ---
 <p align="center">
   <a href="https://github.com/Tesspitch">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tesspitch&show_icons=true&theme=radical" alt="Tesspitch's GitHub Stats" />
+    <img src="https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg" alt="Tesspitch's GitHub Stats" />
+  </a>
+  <a href="https://facebook.com/supakhit.wrp.39">
+    <img src="https://github.com/topics/facebook" alt="Tesspitch's Facebook Stats" />
+  </a>
+  <a href="https://instagram.com/Tesspitch">
+    <img src="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Instagram_icon.png" alt="Tesspitch's Instagram Stats" />
+  </a>
+  <a href="[https://instagram.com/Tesspitch](https://www.linkedin.com/in/supakhit-weeraphan-2899a541a/)">
+    <img src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon_circle.svg" alt="Tesspitch's Linkedin Stats" />
   </a>
 </p>
