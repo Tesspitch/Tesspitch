@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Tes (Supakhit Weeraphan) 👋</h1>
 
-<h3 align="center">Full-Stack Developer | IT Student @ Mahasarakham University</h3>
+<h3 align="center">Full-Stack Developer & Oracle PL/SQL Developer / System Analyst | IT Student @ Mahasarakham University</h3>
 
 <p align="center">
-  I'm an IT student with a strong passion for developing web applications, focusing on both Frontend and Backend. I have a Growth Mindset, love logical problem-solving, and enjoy learning new technologies.
+  I'm an IT student with a strong passion for developing web applications, database management, and building efficient data pipelines. I have a Growth Mindset, love logical problem-solving, and am deeply interested in System Analysis and DBMS architectures.
 </p>
 
 ---
@@ -11,19 +11,20 @@
 ### 🚀 About Me
 - 🎓 4th-year Information Technology student at Mahasarakham University (GPAX: 3.88).
 - 💻 Actively developing robust Full-Stack applications using **React.js, Tailwind CSS, Vue.js, and Django**.
+- 📊 Passionate about **System Analysis, DBMS, and Data Engineering**, with a strong focus on optimizing database queries and structuring data pipelines.
 - 🔧 Exploring Internet of Things (IoT) development with ESP8266 and hardware sensors.
-- 🏃‍♂️ Passionate long-distance runner.
+- 🏃‍♂️ Passionate long-distance runner targeting a sub-39-minute 10K.
 - 📫 How to reach me: **tesspitch@gmail.com**
 
 ### 🛠 Tech Stack
+- **Database & Data Engineering:** PL/SQL, Oracle, MySQL, SQL
 - **Frontend:** React.js, Vue.js, Tailwind CSS, Bootstrap 5, JavaScript (ES6+), HTML, CSS
 - **Backend:** Python (Django), Java, Go, PHP
 - **Mobile:** Dart (Flutter)
-- **Database:** MySQL, SQL, Oracle
-- **Tools & Platforms:** Git, GitHub, Postman, Figma, VS Code, IntelliJ IDEA, Arduino IDE
+- **Tools & Platforms:** Git, GitHub, Postman, Figma, VS Code, IntelliJ IDEA, Arduino IDE, Render, Vercel, Cloudinary
 
 ### 📂 Featured Projects
-* **ZenseExam (Senior Project):** A hybrid automated exam management system built with React.js, Tailwind CSS, and Django. Features detailed exam table structures for managing multiple sets per session and LaTeX rendering for math equations, supporting both online and paper-based layouts.
+* **ZenseExam (Senior Project):** A hybrid automated exam management system built with React.js, Tailwind CSS, and Django. Focuses on core management and layout functions, featuring detailed exam table structures for managing multiple sets per session and LaTeX rendering for math equations.
 * **A Journey Through Time:** An interactive storytelling SPA developed in collaboration with ThaiPBS to present the prehistoric history and fossils of the Isan region.
 * **Hello Funda (Web App):** An educational app developed for nursing students to review fundamentals, built with React.js, Local Storage, and Google Sheets API integration.
 * **E-commerce & Procurement Systems:** Developed various management systems including a desktop app in Java Swing and responsive web frontends using Vue.js and PHP.
