@@ -73,6 +73,7 @@ I have a **Growth Mindset**, enjoy logical problem-solving, and am deeply intere
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mariadb&theme=dark" alt="Database Skills" />
 </p>
 
 ![Oracle](https://img.shields.io/badge/Oracle_Database-0D1117?style=for-the-badge&logo=oracle&logoColor=00FF41)
