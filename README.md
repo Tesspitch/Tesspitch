@@ -149,18 +149,6 @@ Educational application developed for nursing students to review fundamental kno
 
 </div>
 
----
-
-## `> ./snake.sh` — Contribution Snake
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Tesspitch/Tesspitch/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
 ## `> cat contacts.txt` — Connect With Me
 
 <div align="center">
